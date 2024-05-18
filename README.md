@@ -1,72 +1,54 @@
-# <div style="text-align: center; color: green; border-bottom: 2px solid green;">repo-100-data-structure-road-map</div>
-<p style="text-align: center; font-size: 16px; font-weight: bold;">Here I'm giving the best roadmap for learning the DSA (Data Structure Algorithms)</p>
+# <div style="text-align: center; color: green;">repo-100-data-structure-road-map</div>
+<p style="text-align: center; font-size: 16px;">here im giving best roadmap for learning the DSA (data-structure-algorithms)</p>
 
 ## Programming fundamentals:
-<ul>
-  <li>Variables, data types, and operators</li>
-  <li>Control flow (loops, conditionals)</li>
-  <li>Function and modular programming</li>
-  <li>Input/output and file handling</li>
-</ul>
+* variables, data types, and operators
+* control flow (loops, conditionals)
+* function and modular programming
+* input/output and file handling
 
 ## Basic Data Structures:
-<ul>
-  <li>Arrays and dynamic arrays</li>
-  <li>Linked lists (singly linked, doubly linked)</li>
-  <li>Stacks and queues (array-based, linked list-based)</li>
-  <li>Hash tables (hash functions, collision handling)</li>
-</ul>
+* Arrays and dynamic arrays
+* Linked lists (singly linked, doubly linked)
+* Stacks and queues (array-based, linked list-based)
+* Hash tables (hash functions, collision handling)
 
 ## Basic Algorithms:
-<ol>
-  <li>Linear Search</li>
-  <li>Binary Search</li>
-  <li>Bubble Sort</li>
-  <li>Insertion Sort</li>
-  <li>Selection Sort</li>
-</ol>
+1. Linear Search
+2. Binary Search
+3. Bubble Search
+4. Insertion Sort
+5. Selection Sort
 
-## Advanced Data Structures:
-<ul>
-  <li>Trees (Binary trees, Binary search trees)</li>
-  <li>Balanced trees (AVL trees, red-black trees)</li>
-  <li>Heaps (binary heap, priority queue)</li>
-  <li>Graph (Representation, traversal)</li>
-</ul>
+## Advanced Data Structure:
+* Trees (Binary trees, Binary search trees)
+* Balanced trees (AVL trees, red-black trees)
+* Heaps (binary heap, priority queue)
+* Graph (Representation, traversal)
 
 ## Advanced Algorithms:
-<ul>
-  <li>Divide and conquer (Merge sort, quick-sort)</li>
-  <li>Dynamic programming (Fibonacci-sequence, knapsack problem)</li>
-  <li>Graph Algorithms (breadth-first search, depth-first search)</li>
-  <li>Shortest path algorithms (Dijkstra's algorithm, Bellman-Ford Algorithm)</li>
-</ul>
+* Divide and conquer (Merge sort, quick-sort)
+* Dynamic programming (Fibonacci-sequence, knapsack problem)
+* Graph Algorithms (breadth-first search, depth-first search)
+* Shortest path algorithms (Dijkstra's algorithm, Bellman-Ford Algorithm)
 
 ## Problem Solving Practices:
-<ul>
-  <li>Solving coding problems (GFG, Hackerrank, Leetcode, etc)</li>
-  <li>Algorithm complexity Analysis (time, space complexity)</li>
-  <li>Problem-solving techniques (logical reasoning, algorithmic design)</li>
-</ul>
+* Solving coding problems (GFG, Hackerrank, Leetcode, etc)
+* Algorithm complexity Analysis (time, space complexity)
+* Problem-solving techniques (logical reasoning, algorithmic design)
 
 ## Algorithm Techniques:
-<ol>
-  <li>Recursive and backtracking</li>
-  <li>Greedy Algorithms</li>
-  <li>Sliding window technique</li>
-  <li>Two-pointer technique</li>
-  <li>Divide and conquer strategies</li>
-</ol>
+1. Recursive and backtracking
+2. Greedy Algorithms
+3. Sliding window technique
+4. Two-pointer technique
+5. Divide and conquer strategies
 
 ## Practice Projects:
-<ul>
-  <li>Implementing data structures and algorithms in practical projects</li>
-  <li>Solving real-world problems using algorithms</li>
-  <li>Optimizing algorithms for efficiency and performance</li>
-</ul>
+* Implementing data structures and algorithms in practical projects
+* Solving real-world problems using algorithms
+* Optimizing algorithms for efficiency and performance
 
 ## Continuous Learning...!
-<ul>
-  <li>Reading E-books etc</li>
-  <li>Exploring research papers and online resources etc</li>
-</ul>
+* Reading E-books etc
+* Exploring research papers and online resources etc
